@@ -2,12 +2,12 @@
 <h3 align="center">Passionate about programming with strong skills in C++, Java, and Python. Proficient in data manipulation and analysis using NumPy, Pandas, Tableau, Excel, and R. Enthusiastic about Machine Learning and Artificial Intelligence, with a strong desire to explore and apply these cutting-edge fields to real-world problems. Eager to embrace new opportunities for growth and innovation.</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nikhilreddy1382&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilreddy1382" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilreddy1382&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilreddy1832" />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nikhilreddy1382" alt="nikhilreddy1382" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nikhilreddy1382" alt="nikhilreddy1832" />
   </a>
 </p>
 
@@ -89,13 +89,13 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilreddy1382&show_icons=true&locale=en&layout=compact" alt="nikhilreddy1382" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilreddy1382&show_icons=true&locale=en&layout=compact" alt="nikhilreddy1832" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilreddy1382&show_icons=true&locale=en" alt="nikhilreddy1382" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilreddy1382&show_icons=true&locale=en" alt="nikhilreddy1832" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilreddy1382&" alt="nikhilreddy1382" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilreddy1382&" alt="nikhilreddy1832" />
 </p>
